@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: PyFlint
+Version: 0.1
+Summary: PySpark helper functionality
+Home-page: https://github.com/AlpineNow/SparkAutoTuning
+Author: Alpine Data
+Author-email: oss@alpinenow.com
+License: LICENSE
+Description: UNKNOWN
+Platform: UNKNOWN
