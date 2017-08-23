@@ -1,0 +1,9 @@
+LICENSE.txt
+MANIFEST.in
+setup.cfg
+setup.py
+PyFlint.egg-info/PKG-INFO
+PyFlint.egg-info/SOURCES.txt
+PyFlint.egg-info/dependency_links.txt
+PyFlint.egg-info/top_level.txt
+pyflint/__init__.py
