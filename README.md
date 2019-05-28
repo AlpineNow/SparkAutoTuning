@@ -1,8 +1,8 @@
 # SparkAutoTuning
-Open sourced components of Alpine's Spark Autotuning functionality
+Open sourced components of TIBCO Team Studio's Spark Autotuning functionality
 
 ### Key components
-* Alpine Flint
+* Team Studio Flint
 
 
 ### Resources
